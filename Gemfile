@@ -46,3 +46,4 @@ group :development do
 end
 
 gem 'react_on_rails', '~> 3'
+gem 'bootstrap-sass'
